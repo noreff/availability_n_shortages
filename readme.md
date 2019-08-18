@@ -19,7 +19,7 @@ Clone or download project from git
 
 Change directory to project directory
 
-```cd lumen-demo-api```
+```cd availability_n_shortages```
 
 Run the PHP builtin server 
 
