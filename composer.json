@@ -1,0 +1,19 @@
+{
+    "name": "volodymyr/equipment_availability",
+    "description": "PHP class aimed to figure out availability and shortages of equipment from the given database",
+    "authors": [
+        {
+            "name": "Volodymyr Isai",
+            "email": "uhhunet@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app"
+        }
+    },
+    "require": {
+        "ext-pdo": "*",
+        "ext-json": "*"
+    }
+}
