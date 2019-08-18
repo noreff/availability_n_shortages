@@ -27,7 +27,7 @@ Run the PHP builtin server
 
 ## Usage
 
-Open http://localhost:8081/ in your browser and add some of this params to the url:
+Open http://localhost:8123/ in your browser and add some of this params to the url:
 
 **action**, possible values:
 
