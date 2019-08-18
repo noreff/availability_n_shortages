@@ -15,7 +15,7 @@ PHP >= 7.1.3
 
 Clone or download project from git
 
-```git clone https://github.com/noreff/availability_n_shortages.git.git```
+```git clone https://github.com/noreff/availability_n_shortages.git```
 
 Change directory to project directory
 
