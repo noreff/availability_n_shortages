@@ -4,7 +4,7 @@ PHP code that helps answer following questions:
 - Is the equipment the customer want to hire available in a certain period?
 - Where in the planning are equipment shortages (more planned than the stock)?
 
-##Requirements
+## Requirements
 PHP >= 7.1.3
 - Sqlite3 PHP Extension
 - PDO PHP Extension
@@ -42,7 +42,7 @@ Open http://localhost:8081/ in your browser and add some of this params to the u
 
 **quantity** - positive integer
 
-##Request examples
+## Request examples
 
 **Is available**
 
