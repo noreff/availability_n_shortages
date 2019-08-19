@@ -21,6 +21,10 @@ Change directory to project directory
 
 ```cd availability_n_shortages```
 
+Create autoloader
+
+```coposer install```
+
 Run the PHP builtin server 
 
 ```php -S localhost:8123```
