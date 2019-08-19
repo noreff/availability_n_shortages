@@ -4,7 +4,7 @@ require 'vendor/autoload.php';
 
 use App\DbConnect as DB;
 use App\Helpers\EquipmentAvailabilityHelper;
-use App\helpers\ValidateRequestHelper;
+use App\Helpers\ValidateRequestHelper;
 
 header('Content-Type: application/json');
 
