@@ -23,7 +23,7 @@ Change directory to project directory
 
 Create autoloader
 
-```coposer install```
+```composer install```
 
 Run the PHP builtin server 
 
